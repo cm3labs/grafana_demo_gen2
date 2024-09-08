@@ -10,4 +10,5 @@ GCP x Docker x Python x Postgres x Grafana Cloud .
 2024-09-08
   - started this git, cloned to local, altered this README.md, push to main. Hello World!
   - added /data/.env and .gitignore
-  - tested .env
+  - tested .env ... wasn't really working well. oh well
+  - added main.py, auth.py, moved /data/.env to .env ... that move made .env work. Not interested in making a .env work from /data/, keeping this the way it is
